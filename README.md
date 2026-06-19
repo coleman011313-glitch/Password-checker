@@ -1,37 +1,30 @@
 # Python Basics Portfolio
 
-This repository contains my early Python projects while learning Python and Git.
-
----
-
-## 📁 Projects
+My beginner Python projects while learning programming, Linux, and Git.
+y
+## Projects
 
 ### Number Guessing Game
-A game where the computer chooses a random number and the user has 5 attempts to guess it.
-
-Skills:
-- while loops
-- conditionals (if / elif / else)
-- variables
-- user input
-- counters
-
----
+- Random number guessing game
+- 5 attempt limit
+- Uses loops, variables, and conditionals
 
 ### Password Checker
-Checks if a password meets basic rules.
-
-Skills:
-- conditionals
-- string handling
-- validation logic
-
----
-
-### Guessing Game (Practice)
-Simple practice version used while learning loops and input.
-
----
+- Checks password rules
+- Uses string handling and validation
 
 ### Name Program
-Basic input/output practice script.
+- Simple input/output practice project
+
+### Guessing Game (Practice)
+- Early practice project used while learning loops
+
+## Skills Learned
+
+- Python
+- Git & GitHub
+- Linux terminal
+- Variables
+- Loops
+- Conditionals
+- User input
