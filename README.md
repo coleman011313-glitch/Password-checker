@@ -1,30 +1,20 @@
-# Python Basics Portfolio
+# Number Guessing Game
 
-My beginner Python projects while learning programming, Linux, and Git.
-y
-## Projects
+A simple Python game where the computer picks a random number between 1 and 10.
 
-### Number Guessing Game
-- Random number guessing game
-- 5 attempt limit
-- Uses loops, variables, and conditionals
+The player tries to guess it with hints.
 
-### Password Checker
-- Checks password rules
-- Uses string handling and validation
+---
 
-### Name Program
-- Simple input/output practice project
+## 🎮 Features
+- Random number generation
+- Too high / too low hints
+- Limited attempts (if using v3)
+- Replay option (v3)
 
-### Guessing Game (Practice)
-- Early practice project used while learning loops
+---
 
-## Skills Learned
+## ▶️ How to run
 
-- Python
-- Git & GitHub
-- Linux terminal
-- Variables
-- Loops
-- Conditionals
-- User input
+```bash
+python guessing_game.py
