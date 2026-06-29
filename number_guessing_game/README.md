@@ -1,12 +1,5 @@
-# Number Guessing Game
+## Versions
 
-Version 1:
-- Single guess
-- Basic if/elif/else
-
-Version 2:
-- Added while loop
-- Added 5-attempt limit
-- Added game over message
-
-This project was built while learning Python.
+- game_v1.py → basic guessing game
+- game_v2_guessing.py → improved logic
+- game_v3_replay.py → adds replay system

@@ -1,20 +1,22 @@
-# Number Guessing Game
 
-A simple Python game where the computer picks a random number between 1 and 10.
+python Basics Portfolio
 
-The player tries to guess it with hints.
+My beginner Python projects while learning programming, Linux, and Git.
 
----
+## 🚀 Main Projects
 
-## 🎮 Features
-- Random number generation
-- Too high / too low hints
-- Limited attempts (if using v3)
-- Replay option (v3)
+### 🎮 Number Guessing Game
+- Random number guessing game
+- Replay system (v3)
 
----
+### 🔐 Password Checker
+- Checks password rules
 
-## ▶️ How to run
+## 🧠 Skills Learned
 
-```bash
-python guessing_game.py
+- Python
+- Git & GitHub
+- Linux terminal
+- Variables
+- Loops
+- Conditionals
